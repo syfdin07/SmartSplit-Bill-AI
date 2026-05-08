@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Data - Ignore all images except sample receipts
+*.jpg
+*.jpeg
+*.png
+*.pdf
+# Allow sample receipts for assignment
+!data/receipt_*.jpg
+!data/receipt_*.png
+!data/sample_*.jpg
+!data/sample_*.png
+
+# Models
+models/downloaded/
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Experiments
+experiments/*.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
