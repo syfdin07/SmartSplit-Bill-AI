@@ -2,8 +2,24 @@
 
 Aplikasi web berbasis AI untuk membaca struk belanja dan membagi tagihan ke beberapa orang secara otomatis.
 
+## 📹 Video Demo
+
+https://github.com/syfdin07/SmartSplit-Bill-AI/assets/demo/SmartSplit%20Bill%20AI%20-%20Demo.mp4
+
+> **Catatan**: Jika video tidak muncul, [klik di sini untuk download](https://github.com/syfdin07/SmartSplit-Bill-AI/raw/main/demo/SmartSplit%20Bill%20AI%20-%20Demo.mp4) (88 MB)
+
+**Isi Video:**
+- 📤 Upload dan parsing struk dengan AI
+- ✏️ Verifikasi dan edit data hasil ekstraksi
+- 👥 Input nama peserta
+- 🎯 Assign items ke masing-masing orang
+- 💰 Hasil split bill per orang
+
+---
+
 ## 📋 Daftar Isi
 
+- [Video Demo](#video-demo)
 - [Cara Instalasi](#cara-instalasi)
 - [Cara Menjalankan](#cara-menjalankan)
 - [Hasil Bacaan Model](#hasil-bacaan-model)
