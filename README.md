@@ -4,9 +4,13 @@ Aplikasi web berbasis AI untuk membaca struk belanja dan membagi tagihan ke bebe
 
 ## 📹 Video Demo
 
-https://github.com/syfdin07/SmartSplit-Bill-AI/assets/demo/SmartSplit%20Bill%20AI%20-%20Demo.mp4
+<div align="center">
+  
+### [▶️ KLIK DI SINI UNTUK MENONTON VIDEO DEMO](https://github.com/syfdin07/SmartSplit-Bill-AI/raw/main/demo/SmartSplit%20Bill%20AI%20-%20Demo.mp4)
 
-> **Catatan**: Jika video tidak muncul, [klik di sini untuk download](https://github.com/syfdin07/SmartSplit-Bill-AI/raw/main/demo/SmartSplit%20Bill%20AI%20-%20Demo.mp4) (88 MB)
+[![Video Demo](https://img.shields.io/badge/📹_Video_Demo-Download_(88_MB)-red?style=for-the-badge)](https://github.com/syfdin07/SmartSplit-Bill-AI/raw/main/demo/SmartSplit%20Bill%20AI%20-%20Demo.mp4)
+
+</div>
 
 **Isi Video:**
 - 📤 Upload dan parsing struk dengan AI
@@ -14,6 +18,8 @@ https://github.com/syfdin07/SmartSplit-Bill-AI/assets/demo/SmartSplit%20Bill%20A
 - 👥 Input nama peserta
 - 🎯 Assign items ke masing-masing orang
 - 💰 Hasil split bill per orang
+
+**Durasi:** ~2-3 menit | **Format:** MP4 | **Size:** 88 MB
 
 ---
 
